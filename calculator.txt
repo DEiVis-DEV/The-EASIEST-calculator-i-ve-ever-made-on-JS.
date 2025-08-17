@@ -1,9 +1,10 @@
 /* Do you actually thought that I'll make it with functions and
 that things? */
 // Hell no, just a console.log and nothing more
-// This is how it works: You put 2 numbers and a sign
+// This is how it works: You put numbers and signs
 // Exemple: console.log(2 + 2);
 
 console.log();
+
 
 // To run it, just put it on a JS Playground website
